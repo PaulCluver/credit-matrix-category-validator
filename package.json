@@ -1,0 +1,27 @@
+{
+  "name": "credit-matrix-category-validator",
+  "version": "1.0.0",
+  "description": "A node app used to validate expected vs actual values in a credit matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulCluver/credit-matrix-category-validator.git"
+  },
+  "keywords": [
+    "node",
+    "chai",
+    "validate"
+  ],
+  "author": "Paul Cluver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulCluver/credit-matrix-category-validator/issues"
+  },
+  "homepage": "https://github.com/PaulCluver/credit-matrix-category-validator#readme",
+  "devDependencies": {
+    "mongodb": "^4.3.1"
+  }
+}
